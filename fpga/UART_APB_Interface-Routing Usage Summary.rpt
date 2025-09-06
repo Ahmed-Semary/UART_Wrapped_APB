@@ -1,0 +1,58 @@
+Routing Usage Summary report for UART_APB_Interface
+Sat Sep  6 16:12:15 2025
+Quartus Prime Version 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Routing Usage Summary
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2025  Altera Corporation. All rights reserved.
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, the Altera Quartus Prime License Agreement,
+the Altera IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Altera and sold by Altera or its authorized distributors.  Please
+refer to the Altera Software License Subscription Agreements 
+on the Quartus Prime software download page.
+
+
+
++--------------------------------------------------------+
+; Routing Usage Summary                                  ;
++------------------------------+-------------------------+
+; Routing Resource Type        ; Usage                   ;
++------------------------------+-------------------------+
+; Block interconnects          ; 469 / 140,056 ( < 1 % ) ;
+; C12 interconnects            ; 51 / 6,048 ( < 1 % )    ;
+; C2 interconnects             ; 141 / 54,648 ( < 1 % )  ;
+; C4 interconnects             ; 160 / 25,920 ( < 1 % )  ;
+; DQS bus muxes                ; 0 / 17 ( 0 % )          ;
+; DQS-18 I/O buses             ; 0 / 17 ( 0 % )          ;
+; DQS-9 I/O buses              ; 0 / 17 ( 0 % )          ;
+; Direct links                 ; 74 / 140,056 ( < 1 % )  ;
+; Global clocks                ; 2 / 16 ( 13 % )         ;
+; Local interconnects          ; 127 / 36,960 ( < 1 % )  ;
+; Quadrant clocks              ; 0 / 88 ( 0 % )          ;
+; R14 interconnects            ; 57 / 5,984 ( < 1 % )    ;
+; R14/C12 interconnect drivers ; 80 / 9,504 ( < 1 % )    ;
+; R3 interconnects             ; 199 / 60,192 ( < 1 % )  ;
+; R6 interconnects             ; 269 / 127,072 ( < 1 % ) ;
+; Spine clocks                 ; 2 / 120 ( 2 % )         ;
+; Wire stub REs                ; 0 / 7,344 ( 0 % )       ;
++------------------------------+-------------------------+
+
+
